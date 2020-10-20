@@ -6,6 +6,9 @@ sidebar_label: Get involved
 
 To get involved with Legend, subscribe to these lists:
 
+
+TESt TEST TEST
+
 * [Legend General List](https://groups.google.com/a/finos.org/forum/#!forum/legend)
   * Subscribe w/ email to [legend+subscribe@finos.org](mailto:legend+subscribe@finos.org)
   * Post with email to [legend@finos.org](mailto:legend@finos.org)
